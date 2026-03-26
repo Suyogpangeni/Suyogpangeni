@@ -1,42 +1,110 @@
 # Hi there, I'm Suyog Pangeni 👋
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+FastAPI+%7C+React;Data+Analyst+%7C+AI+Enthusiast;Building+Scalable+Applications" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Data+Analyst;FastAPI+%7C+LangGraph+%7C+LLM+Integration;Full+Stack+Developer;Building+RAG+Systems+%7C+Data+Pipelines" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Working on **FastAPI + React Projects**
-* 🌱 Learning **DevOps & System Design**
-* 🧠 Exploring **AI Integration & Data Pipelines**
-* 💬 Ask me about **Python, FastAPI, React, SQL**
-* 📫 Reach me: **[suyogpangeni122@gmail.com](mailto:suyogpangeni122@gmail.com)**
+* 🎓 BE in Information Technology (Full Scholar)
+* 💼 Junior Full Stack Engineer @ Cloudmandap
+* 🤖 AI Engineer working with **LangGraph, LangChain & LLMs**
+* 📊 Data Analyst using **Power BI & Python**
+* ⚡ Building **RAG Systems, AI Agents & Data Pipelines**
+* 🌍 Based in Kathmandu, Nepal
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 What I Work With
 
-### Languages
+### 🤖 AI / LLM
+
+* LangGraph
+* LangChain
+* RAG Systems
+* LLM Integration
+* TF-IDF
+* Multi-Agent Systems
+
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square\&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=cplusplus)
 
-### Backend
+### ⚙️ Frameworks
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square\&logo=fastapi)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react)
 
-### Frontend
+### 📊 Data & ML
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+* Pandas
+* NumPy
+* Scikit-learn
+* PySpark
+* Matplotlib
+* Seaborn
 
-### Database
+### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
+* MySQL
+* MS SQL Server
+
+### 📈 Data Visualization
+
+* Power BI
+* Excel
+
+### 🔄 Data Engineering
+
+* Apache Airflow
+* SSIS (Basics)
+
+### 🌐 Web
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Tailwind CSS
+* FastAPI
+
+---
+
+## 🏗️ Projects
+
+### 🤖 AI Multi-Agent Research System
+
+* Built using LangGraph
+* Integrated Tavily Search API
+* Llama LLM via Groq
+* Autonomous research and report generation
+
+### 📊 Attendance Management & PTO System
+
+* FastAPI + MySQL backend
+* React frontend
+* Leave management + attendance tracking
+
+### 🧠 RAG Document Query System
+
+* Upload PDF, CSV, Excel
+* Query using Generative AI
+* Vector store using FAISS
+
+### 🔐 Intrusion Detection System
+
+* Logistic Regression + Random Forest
+* Multiclass classification
+* Network activity detection
+
+### ❤️ Heart Failure Death Prediction
+
+* Random Forest, SVM, Logistic Regression
+* Model evaluation with precision, recall, F1
 
 ---
 
@@ -56,15 +124,29 @@
 
 ---
 
-## 🤝 Connect with me
+## 🏆 Expertise
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+* AI Agents (LangGraph)
+* RAG Systems
+* LLM Applications
+* FastAPI Backend Development
+* Data Pipelines (Airflow)
+* Data Analytics
+* Machine Learning
+* Full Stack Development
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge\&logo=github)](https://github.com/Suyogpangeni)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/suyog-pangeni-165a21304)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge\&logo=gmail)](mailto:suyog20120061@gmail.com)
 
 ---
 
 <div align="center">
 
-**"First, solve the problem. Then, write the code."**
+⭐ *"Building AI systems that solve real-world problems"* ⭐
 
 </div>
