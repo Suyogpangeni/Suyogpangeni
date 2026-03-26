@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-* 🎓 BE in Information Technology (Full Scholar)
-* 💼 Junior Full Stack Engineer @ Cloudmandap
-* 🤖 AI Engineer working with **LangGraph, LangChain & LLMs**
+* 🎓 BE in Information Technology
+* 💼 Junior Full Stack Engineer @ Mandaapx
+* 🤖 AI Engineer working with **LangGraph, LangChain , LLMs**
 * 📊 Data Analyst using **Power BI & Python**
-* ⚡ Building **RAG Systems, AI Agents & Data Pipelines**
+* ⚡ Building **RAG Systems, AI Agents**
 * 🌍 Based in Kathmandu, Nepal
 
 ---
@@ -130,7 +130,6 @@
 * RAG Systems
 * LLM Applications
 * FastAPI Backend Development
-* Data Pipelines (Airflow)
 * Data Analytics
 * Machine Learning
 * Full Stack Development
