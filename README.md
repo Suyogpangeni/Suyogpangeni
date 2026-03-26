@@ -12,7 +12,7 @@
 * 🌱 Learning **DevOps & System Design**
 * 🧠 Exploring **AI Integration & Data Pipelines**
 * 💬 Ask me about **Python, FastAPI, React, SQL**
-* 📫 Reach me: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me: **[suyogpangeni122@gmail.com](mailto:suyogpangeni122@gmail.com)**
 
 ---
 
