@@ -58,11 +58,6 @@
 * Power BI
 * Excel
 
-### 🔄 Data Engineering
-
-* Apache Airflow
-* SSIS (Basics)
-
 ### 🌐 Web
 
 * HTML
